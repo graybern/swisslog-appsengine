@@ -9,7 +9,7 @@ LurknOctopus
 
 !! NO LICENSE !!
 
-AppsEngine. Copyright (c) 2020 LurkingOctopus. All Rights Reserved.
+AppsEngine. Copyright (c) 2020 LurknOctopus. All Rights Reserved.
 Unauthorized copying of this file or distribution of the installer, via any medium is strictly prohibited.
 Proprietary and confidential.
 
