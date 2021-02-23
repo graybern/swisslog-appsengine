@@ -3,7 +3,7 @@
 A desktop application that provides performance and organizational assistance in the sales application engineering process. Built on Electron's framework that utilizes the Chromium rendering engine and Node.js runtime. Paired with MDBootstrap's UI kit that wraps Google's Material Design into Bootstrap's ease-of-use front-end components.
 
 ## Author
-LurkingOctopus
+LurknOctopus
 
 ## License
 
