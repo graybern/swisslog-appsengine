@@ -12,6 +12,3 @@ LurknOctopus
 AppsEngine. Copyright (c) 2020 LurknOctopus. All Rights Reserved.
 Unauthorized copying of this file or distribution of the installer, via any medium is strictly prohibited.
 Proprietary and confidential.
-
-## Installation
-For Swisslog Authorized Personnel Only - you can find the latest installers at [Releases](https://github.com/LurkingOctopus/AppsEngine/releases).
